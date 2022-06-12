@@ -1,7 +1,7 @@
 ---
 username: jeremy
 name: Jeremy Pitt
-image: '/images/02-1.jpg'
+image: '/images/authors/jeremy/jeremy_pitt_600x.jpg'
 cover: '/images/07.jpg'
 location: London, U.K.
 website: https://www.jnpwebdeveloper.com
