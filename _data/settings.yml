@@ -12,8 +12,8 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Articles'
+      url: '/articles/'
     - title: 'Authors'
       url: '/authors/'
     - title: 'Pages'
@@ -22,8 +22,6 @@ menu__settings:
         title: 'About'
       - url: '/contact/'
         title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
 
 
 #-------------------------------
@@ -47,7 +45,7 @@ author:
 # Blog Section Settings
 blog__settings:
   enable: true
-  blog__title: Latest Posts
+  blog__title: Latest Articles
   blog__description:
 
 
@@ -69,7 +67,7 @@ tag__settings:
 #-------------------------------
 # Author Section Settings
 author__section:
-  enable: true
+  enable: false
   author__section__title: Hello, my name is Alena. I’m reviewer and content creator.
   author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
   aurhor__section__button__text: More About Me
@@ -81,7 +79,7 @@ author__section:
 #-------------------------------
 # Newsletter Settings
 mailchimp__settings:
-  enable: true
+  enable: false
   mailchimp__title: Get interesting news
   mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
@@ -97,11 +95,14 @@ footer__description: Don’t limit yourself. Many people limit themselves to wha
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "vimeo", link: "https://vimeo.com"}
+- {icon: "twitter", link: "https://twitter.com/jnpwebdeveloper"}
+- {icon: "twitter", link: "https://twitter.com/Nexii"}
+- {icon: "codepen", link: "https://codepen.io/nexii"}
+# - {icon: "twitter", link: "https://twitter.com"}
+# - {icon: "facebook", link: "https://facebook.com"}
+# - {icon: "codepen", link: "https://codepen.io"}
+# - {icon: "pinterest", link: "https://pinterest.com"}
+# - {icon: "vimeo", link: "https://vimeo.com"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -112,12 +113,14 @@ footer__menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'Articles'
+      url: '/articles/'
+    - title: 'Authors'
+      url: '/authors/'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Elements'
-      url: '/elements/'
 
 
 #-------------------------------
