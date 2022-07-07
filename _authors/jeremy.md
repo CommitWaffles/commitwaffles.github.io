@@ -6,5 +6,4 @@ cover: '/images/07.jpg'
 location: London, U.K.
 website: https://www.jnpwebdeveloper.com
 twitter: https://twitter.com/jnpwebdeveloper
-facebook: https://www.facebook.com
 ---

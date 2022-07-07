@@ -6,5 +6,5 @@ cover: '/images/07.jpg'
 location: London, U.K.
 website: https://nexii.dev
 twitter: https://twitter.com/nexii
-facebook: https://www.facebook.com
+codepen: https://codepen.io/nexii
 ---
